@@ -678,7 +678,7 @@ class Line(object):
         # are different from each other.
         #######################################################################
 
-        
+         
 
     def reset(self):
         """
