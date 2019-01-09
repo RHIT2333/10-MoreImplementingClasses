@@ -34,11 +34,11 @@ def main():
 
     for k in range(2):
         print('- - - - -')
-        keegan.hour_passes()
+        keegan.hour_passes(k)
         mckinley.feed_baby()
 
         for j in range(4):
-            mckinley.hour_passes()
+            mckinley.hour_passes(j)
 
 
 ###############################################################################
