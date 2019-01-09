@@ -678,7 +678,7 @@ class Line(object):
         # are different from each other.
         #######################################################################
 
-
+        
 
     def reset(self):
         """
@@ -718,6 +718,8 @@ class Line(object):
         #        The tests are already written (below).
         #        They include the Example in the above doc-string.
         # ---------------------------------------------------------------------
+
+
 
 
 ###############################################################################
