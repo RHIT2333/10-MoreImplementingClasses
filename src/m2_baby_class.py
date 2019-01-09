@@ -111,7 +111,9 @@ def main():
 class Baby(object):
 
     def __init__(self):
+      name = self
 
+    
 
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
